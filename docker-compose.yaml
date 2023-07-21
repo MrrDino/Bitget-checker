@@ -1,0 +1,12 @@
+version: '3.7'
+
+
+services:
+
+  parser:
+    container_name: listener
+    restart: on-failure
+    image: listener
+    build: .
+    env_file:
+      - variables.env
