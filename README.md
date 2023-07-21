@@ -4,11 +4,9 @@
 
 ```git clone https://github.com/MrrDino/Stargate-swap.git```
 
-2. Создайте файл variables.env и внесите туда id чата и токен бота:
+2. Откройте файл variables.env и внесите туда id чата и токен бота:
 
-```touch variables.env```
-
-```Названия переменных: TOKEN, CHAT_ID```
+```TOKEN=, CHAT_ID=```
 
 3. Поднимите докер:
 
