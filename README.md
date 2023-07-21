@@ -2,7 +2,7 @@
 
 1. Скачайте репозитрой с GitHub:
 
-```git clone https://github.com/MrrDino/Stargate-swap.git```
+```https://github.com/MrrDino/Bitget-checker.git```
 
 2. Откройте файл variables.env и внесите туда id чата и токен бота:
 
